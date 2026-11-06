@@ -236,3 +236,4 @@ HERBINTEL records knowledge-community attribution, consent/access status, benefi
 * **Category:** Ethnobotany, Bioinformatics, Natural Products Chemistry & Knowledge Graphs
 * **Core Stack:** Python 3.10, Streamlit, NetworkX, Plotly, PyMuPDF, SQLite, Requests, Pytest.
 
+"# HERBINTEL" 
